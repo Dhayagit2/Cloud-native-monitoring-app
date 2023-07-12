@@ -6,7 +6,6 @@
 
 
 
-## **Part 1: Deploying the Flask application locally**
 
 
 
